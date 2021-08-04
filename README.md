@@ -1,2 +1,2 @@
 # CISS
-Convenient is super sexy
+**C**onvenient **I**s **S**uper **S**exy
