@@ -13,3 +13,4 @@ by making tools also convenient to use.
 - https://github.com/CumulusNetworks/DUE
 - https://github.com/vaporup/LQL-HTTP
 - https://github.com/FiloSottile/age/
+- https://github.com/makedeb/makedeb
