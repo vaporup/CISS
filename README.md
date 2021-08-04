@@ -16,3 +16,4 @@ by making tools also convenient to use.
 - https://github.com/makedeb/makedeb
 - https://github.com/chall32/LDWin
 - http://ccrypt.sourceforge.net
+- https://www.gnu.org/software/recutils/
