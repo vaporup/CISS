@@ -9,3 +9,4 @@ by making tools also convenient to use.
 
 - https://github.com/vaporup/ssh-tools
 - https://github.com/nspawn/nspawn
+- https://github.com/vaporup/LQL-HTTP
