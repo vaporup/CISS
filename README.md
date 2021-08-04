@@ -2,7 +2,7 @@
 **C**onvenient **I**s **S**uper **S**exy
 
 **CISS** extends the [KISS](https://en.wikipedia.org/wiki/KISS_principle) principle
-by making tools and live in general more convenient
+by making tools and life in general more convenient
 
 
 ## Examples
