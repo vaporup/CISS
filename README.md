@@ -15,3 +15,4 @@ by making tools also convenient to use.
 - https://github.com/FiloSottile/age/
 - https://github.com/makedeb/makedeb
 - https://github.com/chall32/LDWin
+- http://ccrypt.sourceforge.net
