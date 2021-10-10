@@ -17,3 +17,4 @@ by making tools - and life in general - more convenient
 - https://github.com/chall32/LDWin
 - http://ccrypt.sourceforge.net
 - https://www.gnu.org/software/recutils/
+- https://appimage.org
