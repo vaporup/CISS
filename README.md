@@ -8,6 +8,7 @@ by making tools - and life in general - more convenient
 ## Examples
 
 - https://github.com/vaporup/ssh-tools
+- https://github.com/vaporup/ping-tools
 - https://github.com/nspawn/nspawn
 - https://github.com/lkhq/debspawn
 - https://github.com/CumulusNetworks/DUE
